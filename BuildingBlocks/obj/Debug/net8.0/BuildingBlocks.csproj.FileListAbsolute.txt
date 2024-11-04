@@ -1,0 +1,12 @@
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+D:\Programming\IDEs\Visual Studio 2022\eshop-microservices\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
