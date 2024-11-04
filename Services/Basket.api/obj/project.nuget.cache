@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1ymGUb6r+RfCMqtzEFz+Mr4ukiww+kYr0oDPgRMPfK007swmJkMp7FxFg9j8+7R2/DIpfCeJt7/OGSUmP0crg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\IDEs\\Visual Studio 2022\\eshop-microservices\\Services\\Basket.api\\Basket.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Deel\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512"
+  ],
+  "logs": []
+}
