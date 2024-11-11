@@ -1,6 +1,4 @@
-﻿
-
-using Discount.Grpc;
+﻿using Discount.Grpc;
 
 namespace Basket.api.Basket.UpdateBasket
 {
