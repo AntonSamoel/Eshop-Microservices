@@ -1,0 +1,10 @@
+﻿global using Basket.api.Models;
+global using BuildingBlocks.CQRS;
+global using Carter;
+global using Mapster;
+global using MediatR;
+global using FluentValidation;
+global using BuildingBlocks.Behaviors;
+global using Marten;
+global using Basket.api.Exceptions;
+global using Basket.api.Data;

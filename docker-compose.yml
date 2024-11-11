@@ -1,0 +1,40 @@
+version: '3.4'
+
+services:
+  catalogdb:
+    image: postgres
+
+  basketdb:
+    image: postgres
+
+  distributedcache:
+    image: redis
+
+  catalog.api:
+    image: ${DOCKER_REGISTRY-}catalogapi
+    build:
+      context: .
+      dockerfile: Services/Catalog/Catalog.Api/Dockerfile
+
+  basket.api:
+    image: ${DOCKER_REGISTRY-}basketapi
+    build:
+      context: .
+      dockerfile: Services/Basket.api/Dockerfile
+
+
+  discount.grpc:
+    image: ${DOCKER_REGISTRY-}discountgrpc
+    build:
+      context: .
+      dockerfile: Services/Discount.Grpc/Dockerfile
+
+volumes:
+  postgres_catalog:
+  postgres_basket:
+
+
+
+
+
+
